@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "修改配置文件工具测试/1.0.0": {
+        "runtime": {
+          "修改配置文件工具测试.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "修改配置文件工具测试/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

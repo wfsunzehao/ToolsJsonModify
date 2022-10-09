@@ -1,0 +1,12 @@
+{
+  "Region": "Central US EUAP",
+  "Cloud": "AzureCloud",
+  "SubscriptionId": "1e57c478-0901-4c02-8d35-49db234b78d2",
+  "ResourceGroupName": "Cache-FunctionalRun-CentralUSEUAP3",
+  "UseIaaSVMs": "true",
+  "ADApplicationName": "RedisCacheFunctionalTests",
+  "SecondarySubscriptionId": "1e57c478-0901-4c02-8d35-49db234b78d2",
+  "SecondaryResourceGroupName": "Cache-FunctionalRun-CentralUSEUAP3",
+  "StorageAccountName": "functiontestcuse1008",
+  "VNetName": "vnetcuseuap1008"
+}

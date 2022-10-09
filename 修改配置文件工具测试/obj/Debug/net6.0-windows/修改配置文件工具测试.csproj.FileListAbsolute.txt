@@ -1,0 +1,17 @@
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\bin\Debug\net6.0-windows\修改配置文件工具测试.exe
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\bin\Debug\net6.0-windows\修改配置文件工具测试.deps.json
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\bin\Debug\net6.0-windows\修改配置文件工具测试.runtimeconfig.json
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\bin\Debug\net6.0-windows\修改配置文件工具测试.dll
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\bin\Debug\net6.0-windows\修改配置文件工具测试.pdb
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\修改配置文件工具测试.csproj.AssemblyReference.cache
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\修改配置文件工具测试.Form1.resources
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\修改配置文件工具测试.csproj.GenerateResource.cache
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\修改配置文件工具测试.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\修改配置文件工具测试.AssemblyInfoInputs.cache
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\修改配置文件工具测试.AssemblyInfo.cs
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\修改配置文件工具测试.csproj.CoreCompileInputs.cache
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\修改配置文件工具测试.dll
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\refint\修改配置文件工具测试.dll
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\修改配置文件工具测试.pdb
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\修改配置文件工具测试.genruntimeconfig.cache
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试\修改配置文件工具测试\obj\Debug\net6.0-windows\ref\修改配置文件工具测试.dll

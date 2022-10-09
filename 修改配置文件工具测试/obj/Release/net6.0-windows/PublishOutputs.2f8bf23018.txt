@@ -1,0 +1,5 @@
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试.exe
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试.dll
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试.deps.json
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试.runtimeconfig.json
+C:\Users\v-yimingma\Desktop\修改配置文件工具测试.pdb
