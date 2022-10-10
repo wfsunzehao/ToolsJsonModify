@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SSA-User\\Desktop\\修改配置文件工具测试\\修改配置文件工具测试\\修改配置文件工具测试.csproj": {}
+    "C:\\Users\\SSA-User\\Source\\Repos\\ToolsJsonModify3\\修改配置文件工具测试\\修改配置文件工具测试.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SSA-User\\Desktop\\修改配置文件工具测试\\修改配置文件工具测试\\修改配置文件工具测试.csproj": {
+    "C:\\Users\\SSA-User\\Source\\Repos\\ToolsJsonModify3\\修改配置文件工具测试\\修改配置文件工具测试.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SSA-User\\Desktop\\修改配置文件工具测试\\修改配置文件工具测试\\修改配置文件工具测试.csproj",
+        "projectUniqueName": "C:\\Users\\SSA-User\\Source\\Repos\\ToolsJsonModify3\\修改配置文件工具测试\\修改配置文件工具测试.csproj",
         "projectName": "修改配置文件工具测试",
-        "projectPath": "C:\\Users\\SSA-User\\Desktop\\修改配置文件工具测试\\修改配置文件工具测试\\修改配置文件工具测试.csproj",
+        "projectPath": "C:\\Users\\SSA-User\\Source\\Repos\\ToolsJsonModify3\\修改配置文件工具测试\\修改配置文件工具测试.csproj",
         "packagesPath": "C:\\Users\\SSA-User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SSA-User\\Desktop\\修改配置文件工具测试\\修改配置文件工具测试\\obj\\",
+        "outputPath": "C:\\Users\\SSA-User\\Source\\Repos\\ToolsJsonModify3\\修改配置文件工具测试\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SSA-User\\AppData\\Roaming\\NuGet\\NuGet.Config",
